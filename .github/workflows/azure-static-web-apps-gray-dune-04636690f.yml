@@ -18,6 +18,45 @@ jobs:
       - uses: actions/checkout@v3
         with:
           submodules: true
+
+      # Runs the Hugo command to build public directory
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: "0.91.2"
+          extended: true
+
+      - run: echo ":/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin" >> $GITHUB_PATH
+
+      # Setup node and npm
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: "16"
+
+      - name: Cache dependencies
+        uses: actions/cache@v2
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      # Fetch webmentions, token added
+      # - name: Fetch webmentions
+      #   run: |
+      #     cd $GITHUB_WORKSPACE
+      #     echo $PATH
+      #     pwd
+      #     npm ci
+      #     WM_TOKEN=${{ secrets.WM_TOKEN }} SKIP_PREFLIGHT_CHECK=true npm run fetch
+
+      # Build the Hugo web site
+      - name: Hugo build
+        run: |
+          cd $GITHUB_WORKSPACE
+          hugo -v
+
       - name: Build And Deploy
         id: builddeploy
         uses: Azure/static-web-apps-deploy@v1
