@@ -50,6 +50,10 @@ jobs:
       #     pwd
       #     npm ci
       #     WM_TOKEN=${{ secrets.WM_TOKEN }} SKIP_PREFLIGHT_CHECK=true npm run fetch
+      - name: Typing DIR
+        run : |
+          echo $GITHUB_WORKSPACE
+          ls $GITHUB_WORKSPACE
 
       # Build the Hugo web site
       - name: Hugo build
