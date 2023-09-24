@@ -58,7 +58,7 @@ jobs:
       # Build the Hugo web site
       - name: Hugo build
         run: |
-          cd $GITHUB_WORKSPACE/$GITHUB_WORKSPACE
+          cd $GITHUB_WORKSPACE/dennitorf.dev
           hugo -v
 
       - name: Build And Deploy
