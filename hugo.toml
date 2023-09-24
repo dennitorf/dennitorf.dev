@@ -13,7 +13,7 @@ theme = "chringel-hugo-theme"
 
 
 [Params]
-  description = 'My personal blog about coding, spatial stuff and everything else'
+  description = 'My personal blog about IT & Development'
   headerTitle = 'dennitorf@dev: ~/$'
   footerCopyrightText = 'CC BY 4.0 Denny Rodriguez {year} <br /> [Privacy Protection](/privacy-protection)'
   titleImage = 'images/dennitorf.jpg'

@@ -2,7 +2,7 @@
 title: "The First Post"
 author: Denny Rodriguez
 type: post
-date:  2023-09-21T08:25:16-04:00
+date:  2023-09-24T08:25:16-04:00
 cover:
   src: https://images.unsplash.com/photo-1614624532983-4ce03382d63d?ixid=M3w1MDUxNDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE2OTUyOTkxMTZ8&ixlib=rb-4.0.3&w=1500&h=750&crop=focalpoint&fit=crop
   caption: "Black flat screen computer monitor on brown wooden desk (Photo by [Linus Mimietz](https://unsplash.com/@linusmimietz?utm_source=chringel.dev%20blog&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=chringel.dev%20blog&utm_medium=referral))"
