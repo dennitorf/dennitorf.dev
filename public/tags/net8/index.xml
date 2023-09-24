@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NET8 on dennitorf.dev</title>
+    <link>https://dennitorf.dev/tags/net8/</link>
+    <description>Recent content in NET8 on dennitorf.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Creative Commons Attribution 4.0 International - CC-BY</copyright>
+    <lastBuildDate>Thu, 21 Sep 2023 11:07:05 -0400</lastBuildDate><atom:link href="https://dennitorf.dev/tags/net8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://dennitorf.dev/2023/09/21/1107/</link>
+      <pubDate>Thu, 21 Sep 2023 11:07:05 -0400</pubDate>
+      
+      <guid>https://dennitorf.dev/2023/09/21/1107/</guid>
+      <description>Microsoft will release . NET 8, a long-term support (LTS) version, at the . NET Conf 2023 between November 14-16. A post from principal product manager Mehul Harry, which confirmed the timing, promises a focus on cloud native .</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://aka.ms/azure/static-web-apps-cli/schema",
+  "configurations": {
+    "dennitorf.dev": {
+      "appLocation": "public",
+      "outputLocation": ".",
+      "appName": "dennitorf.dev",
+      "resourceGroup": "dennitorf.dev-rg"
+    }
+  }
+}
