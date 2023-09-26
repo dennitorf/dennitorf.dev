@@ -9,40 +9,9 @@
     <copyright>Creative Commons Attribution 4.0 International - CC-BY</copyright>
     <lastBuildDate>Thu, 21 Sep 2023 00:00:00 -0400</lastBuildDate><atom:link href="https://dennitorf.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://dennitorf.dev/2023/09/21/1107/</link>
-      <pubDate>Thu, 21 Sep 2023 11:07:05 -0400</pubDate>
-      
-      <guid>https://dennitorf.dev/2023/09/21/1107/</guid>
-      
-      
-      
-      
-      
-      
-      
-      <description>
-          <![CDATA[ 
-          
-          <p>Microsoft will release . NET 8, a long-term support (LTS) version, at the . NET Conf 2023 between November 14-16. A post from principal product manager Mehul Harry, which confirmed the timing, promises a focus on cloud native .</p>
-
-          
-          
-          
-            <a href="https://devclass.com/2023/08/03/microsoft-net-8-gets-november-release-date-devs-hope-for-stable-maui/" class="u-repost-of break-all"></a>
-          
-          
-          
-          ]]>
-      </description>
-
-
-    </item>
-    
-    <item>
       <title>The First Post</title>
       <link>https://dennitorf.dev/2023/09/the-first-post/</link>
-      <pubDate>Thu, 21 Sep 2023 08:25:16 -0400</pubDate>
+      <pubDate>Sun, 24 Sep 2023 08:25:16 -0400</pubDate>
       
       <guid>https://dennitorf.dev/2023/09/the-first-post/</guid>
       
@@ -78,6 +47,37 @@
 
           
           
+          
+          
+          
+          ]]>
+      </description>
+
+
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dennitorf.dev/2023/09/21/1107/</link>
+      <pubDate>Thu, 21 Sep 2023 11:07:05 -0400</pubDate>
+      
+      <guid>https://dennitorf.dev/2023/09/21/1107/</guid>
+      
+      
+      
+      
+      
+      
+      
+      <description>
+          <![CDATA[ 
+          
+          <p>Microsoft will release . NET 8, a long-term support (LTS) version, at the . NET Conf 2023 between November 14-16. A post from principal product manager Mehul Harry, which confirmed the timing, promises a focus on cloud native .</p>
+
+          
+          
+          
+            <a href="https://devclass.com/2023/08/03/microsoft-net-8-gets-november-release-date-devs-hope-for-stable-maui/" class="u-repost-of break-all"></a>
           
           
           
