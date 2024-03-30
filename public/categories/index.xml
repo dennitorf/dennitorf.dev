@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on dennitorf.dev</title>
+    <link>https://dennitorf.dev/categories/</link>
+    <description>Recent content in Categories on dennitorf.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Creative Commons Attribution 4.0 International - CC-BY</copyright>
+    <lastBuildDate>Sun, 24 Sep 2023 08:25:16 -0400</lastBuildDate><atom:link href="https://dennitorf.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blog</title>
+      <link>https://dennitorf.dev/categories/blog/</link>
+      <pubDate>Sun, 24 Sep 2023 08:25:16 -0400</pubDate>
+      
+      <guid>https://dennitorf.dev/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>internet</title>
+      <link>https://dennitorf.dev/categories/internet/</link>
+      <pubDate>Sun, 24 Sep 2023 08:25:16 -0400</pubDate>
+      
+      <guid>https://dennitorf.dev/categories/internet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>presentation</title>
+      <link>https://dennitorf.dev/categories/presentation/</link>
+      <pubDate>Sun, 24 Sep 2023 08:25:16 -0400</pubDate>
+      
+      <guid>https://dennitorf.dev/categories/presentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Notes</title>
+      <link>https://dennitorf.dev/categories/notes/</link>
+      <pubDate>Thu, 21 Sep 2023 11:07:05 -0400</pubDate>
+      
+      <guid>https://dennitorf.dev/categories/notes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
